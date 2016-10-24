@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Zopo Speed 7 - Unofficial CyanogenMod 13.0
 ==============
 
